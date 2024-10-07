@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wumuzesucene.pages.dev/sitemap.xml
